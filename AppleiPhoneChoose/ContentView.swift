@@ -123,7 +123,7 @@ struct ChooseYourFinishView: View {
 struct ContentView: View {
     var body: some View {
         ChooseYourFinishView()
-            .background(Color(.sRGB, red: 0.953, green: 0.953, blue: 0.969, opacity: 1.0))
+            
     }
 }
 
